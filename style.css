@@ -1,0 +1,21 @@
+h1 {
+    color: violet;
+}
+h2 {
+    color: black;
+}
+.muchotexto {
+    color: rgb(255, 0, 0);
+}
+p {
+    color:red;
+    gap: 2px;
+    border: 2px;
+}
+button {
+    color: blue
+}
+button :hover {
+      transition: (0,3)
+      transform 3px
+}
